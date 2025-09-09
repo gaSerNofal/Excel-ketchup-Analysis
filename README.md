@@ -1,3 +1,8 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel&logoColor=white)
+![Real Data](https://img.shields.io/badge/Data-Real--World-blue)
+![Case Study](https://img.shields.io/badge/Type-Case_Study-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # 📊 Ketchup Restaurant Sales Analysis
 
 ## 📌 Project Overview
